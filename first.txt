@@ -7,3 +7,5 @@ asdasd
 
 add master branch content
 new branch added
+
+Added by me
