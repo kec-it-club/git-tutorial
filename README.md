@@ -1,2 +1,4 @@
 # git-tutorial
-This repo for the learining of **git** and **GitHub**.
+This repo is for the teachimg/learning of **git** and **GitHub**.
+
+Feel free to use this repo for learning purpose.
