@@ -1,2 +1,2 @@
 # git-tutorial
-git training
+This repo for the learining of **git** and **GitHub**.
